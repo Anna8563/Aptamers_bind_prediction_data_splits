@@ -18,10 +18,10 @@ Experimental identification of aptamer–protein interactions is costly and time
 │   ├── data_exploration.ipynb
 │   └── results_plots.ipynb
 ├── src
-│   ├── data          # dataset statistics and splitting utilities
-│   ├── encoders      # aptamer and protein embedding pipelines
-│   ├── models        # interaction prediction models screening
-│   └── viz           # visualization utilities
+│   ├── data           dataset statistics and splitting utilities
+│   ├── encoders       aptamer and protein embedding pipelines
+│   ├── models         interaction prediction models screening
+│   └── viz            visualization utilities
 └── README.md
 
 .
