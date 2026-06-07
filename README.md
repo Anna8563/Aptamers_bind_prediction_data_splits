@@ -5,8 +5,11 @@ Experimental identification of aptamer–protein interactions is costly and time
 
 ## Repository Structure
 ├── notebooks_and_scripts
+
 │   ├── compute_aptamer_embeddings.py
+
 │   ├── compute_aptamer_embeddings_dnabert.py
+
 │   ├── compute_embeddings_ankh.py
 │   ├── compute_embeddings_esmc.py
 │   ├── compute_embeddings_prot_t5.py
