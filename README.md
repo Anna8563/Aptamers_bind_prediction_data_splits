@@ -33,16 +33,3 @@ Experimental identification of aptamer–protein interactions is costly and time
 | `src/viz`               | Visualization and plotting utilities                            |
 | `notebooks_and_scripts` | Experiment scripts, notebooks, and result analysis              |
 
-## Encoders
-
-Aptamers:
-
-Sequence-based feature extraction
-DNABERT-2 embeddings
-GENA-LM
-
-Proteins:
-
-ProtT5
-ESMC
-ANKH
