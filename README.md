@@ -25,8 +25,6 @@ Experimental identification of aptamer–protein interactions is costly and time
 └── README.md
 ```
 
-### Directory Description
-
 | Directory               | Description                                                     |
 | ----------------------- | --------------------------------------------------------------- |
 | `src/data`              | Dataset statistics and data splitting utilities                 |
