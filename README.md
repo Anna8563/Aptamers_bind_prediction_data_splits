@@ -20,6 +20,37 @@ Experimental identification of aptamer–protein interactions is costly and time
 │   ├── models        # interaction prediction models screening
 │   └── viz           # visualization utilities
 └── README.md
+
+.
+├── notebooks_and_scripts
+│   ├── compute_aptamer_embeddings_dnabert.py
+│   ├── compute_aptamer_embeddings.py
+│   ├── compute_embeddings_ankh.py
+│   ├── compute_embeddings_esmc.py
+│   ├── compute_embeddings_prot_t5.py
+│   ├── data_exploration.ipynb
+│   ├── results_plots.ipynb
+│   ├── train_dl_models.py
+│   ├── train_dl_models_thresholds.py
+│   ├── train_ml_models_only_aptamers.py
+│   ├── train_ml_models_only_proteins.py
+│   ├── train_ml_models.py
+│   └── train_ml_models_with_thresholds.py
+├── README.md
+├── src
+│   ├── data
+│   │   ├── split.py
+│   │   └── stats.py
+│   ├── encoders
+│   │   ├── aptamer_encoders_dnabert.py
+│   │   ├── aptamer_encoders.py
+│   │   ├── protein_encoders_esmc.py
+│   │   ├── protein_encoders_prot_t5.py
+│   │   └── protein_encoders.py
+│   ├── models
+│   │   └── screening.py
+│   └── viz
+│       └── plots.py
 ## Encoders
 
 Aptamers:
